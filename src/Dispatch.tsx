@@ -27,7 +27,7 @@ function Dispatch() {
             border: '1px solid #3a3a4e'
           }}>
             <p style={{ fontSize: '1.125rem', color: '#b0b0c0', marginBottom: '2rem' }}>
-              Call our live dispatch team now for immediate assistance
+              Call our live dispatch team now for prompt assistance
             </p>
 
             <a href="tel:6238664245" style={{
@@ -55,9 +55,9 @@ function Dispatch() {
           <div style={{ textAlign: 'left', color: '#b0b0c0', marginBottom: '2rem' }}>
             <h2 style={{ fontSize: '1.5rem', color: '#ffffff', marginBottom: '1rem' }}>What to Expect</h2>
             <ul style={{ marginLeft: '1.5rem', lineHeight: '2' }}>
-              <li>Immediate answer from live dispatcher</li>
-              <li>Instant quote based on your location</li>
-              <li>Technician dispatched immediately</li>
+              <li>Live dispatcher ready to help</li>
+              <li>Quick quote based on your location</li>
+              <li>Technician dispatched promptly</li>
               <li>Real-time ETA provided</li>
               <li>Text updates on arrival time</li>
             </ul>

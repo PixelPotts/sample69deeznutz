@@ -39,7 +39,7 @@ function ServiceAreas() {
               Serving All of Phoenix Metro
             </h2>
             <p style={{ color: '#b0b0c0', fontSize: '1.125rem' }}>
-              Based in West Phoenix - Fast response across the entire valley
+              Based in West Phoenix - Efficient service across the entire valley
             </p>
           </div>
 
@@ -55,7 +55,7 @@ function ServiceAreas() {
               📍 8607 W Wilshire Dr, Phoenix, AZ 85037
             </p>
             <p style={{ color: '#8888a0', fontSize: '0.875rem' }}>
-              Centrally located for fast service across the West Valley and beyond
+              Centrally located for efficient service across the West Valley and beyond
             </p>
           </div>
 
@@ -97,15 +97,15 @@ function ServiceAreas() {
             <h3 style={{ fontSize: '1.25rem', marginBottom: '1rem' }}>Response Times</h3>
             <div style={{ marginBottom: '1rem' }}>
               <p style={{ color: '#ffd700', fontWeight: 700, marginBottom: '0.25rem' }}>West Valley (Glendale, Peoria, Surprise)</p>
-              <p style={{ color: '#b0b0c0' }}>15-20 minutes average</p>
+              <p style={{ color: '#b0b0c0' }}>Prompt response</p>
             </div>
             <div style={{ marginBottom: '1rem' }}>
               <p style={{ color: '#ffd700', fontWeight: 700, marginBottom: '0.25rem' }}>Central Phoenix</p>
-              <p style={{ color: '#b0b0c0' }}>20-25 minutes average</p>
+              <p style={{ color: '#b0b0c0' }}>Efficient response</p>
             </div>
             <div style={{ marginBottom: '1rem' }}>
               <p style={{ color: '#ffd700', fontWeight: 700, marginBottom: '0.25rem' }}>East Valley (Scottsdale, Tempe, Mesa)</p>
-              <p style={{ color: '#b0b0c0' }}>25-35 minutes average</p>
+              <p style={{ color: '#b0b0c0' }}>Timely response</p>
             </div>
             <div>
               <p style={{ color: '#8888a0', fontSize: '0.875rem', fontStyle: 'italic' }}>

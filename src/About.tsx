@@ -31,7 +31,7 @@ function About() {
               We are a locally-owned and operated car lockout service company serving the Phoenix metropolitan area. Our business is registered and licensed in Arizona, and we carry full liability insurance for your protection.
             </p>
             <p style={{ color: '#b0b0c0', lineHeight: '1.8' }}>
-              PHX Unlock Services, LLC specializes in emergency car lockout services. When you're locked out of your vehicle, we provide fast, professional, and affordable assistance to get you back on the road.
+              PHX Unlock Services, LLC specializes in emergency car lockout services. When you're locked out of your vehicle, we provide efficient, professional, and affordable assistance to get you back on the road.
             </p>
           </div>
 
@@ -81,7 +81,7 @@ function About() {
               <li><strong style={{ color: '#ffffff' }}>Licensed & Insured:</strong> Full liability coverage for your protection</li>
               <li><strong style={{ color: '#ffffff' }}>Transparent Pricing:</strong> $20 base fee + $1 per mile - no surprises</li>
               <li><strong style={{ color: '#ffffff' }}>Local Business:</strong> Phoenix-owned and operated</li>
-              <li><strong style={{ color: '#ffffff' }}>Fast Response:</strong> Average 25-minute arrival time</li>
+              <li><strong style={{ color: '#ffffff' }}>Efficient Response:</strong> We prioritize getting to you promptly</li>
               <li><strong style={{ color: '#ffffff' }}>Professional Service:</strong> Trained technicians who care about your vehicle</li>
               <li><strong style={{ color: '#ffffff' }}>24/7 Availability:</strong> We're here when you need us most</li>
             </ul>

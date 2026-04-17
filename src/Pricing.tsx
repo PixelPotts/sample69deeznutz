@@ -79,10 +79,10 @@ function Pricing() {
             <ul style={{ marginLeft: '1.5rem', color: '#b0b0c0', lineHeight: '2' }}>
               <li>Professional car unlock service</li>
               <li>Licensed & insured technician</li>
-              <li>No damage guarantee</li>
+              <li>Careful, damage-free techniques</li>
               <li>All vehicle makes and models</li>
               <li>24/7 availability</li>
-              <li>Fast response time</li>
+              <li>Efficient response time</li>
             </ul>
           </div>
 
@@ -111,7 +111,7 @@ function Pricing() {
               fontWeight: 700,
               marginRight: '1rem'
             }}>
-              Get Instant Quote
+              Get a Quote
             </a>
             <a href="tel:6238664245" style={{
               display: 'inline-block',

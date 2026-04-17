@@ -23,7 +23,7 @@ function TermsOfService() {
 
           <h2 style={{ fontSize: '1.5rem', marginTop: '2rem', marginBottom: '1rem' }}>Services Provided</h2>
           <p style={{ marginBottom: '1rem', color: '#b0b0c0' }}>
-            PHX Unlock Services provides professional car lockout services in the Phoenix metropolitan area. We strive to provide fast, affordable, and reliable service 24/7.
+            PHX Unlock Services provides professional car lockout services in the Phoenix metropolitan area. We strive to provide efficient, affordable, and reliable service 24/7.
           </p>
 
           <h2 style={{ fontSize: '1.5rem', marginTop: '2rem', marginBottom: '1rem' }}>Pricing</h2>
@@ -31,9 +31,9 @@ function TermsOfService() {
             Pricing is calculated as a $20 base fee plus $1 per mile from our location (8607 W Wilshire Dr, Phoenix, AZ 85037). Quotes provided through this website are estimates and must be confirmed by phone.
           </p>
 
-          <h2 style={{ fontSize: '1.5rem', marginTop: '2rem', marginBottom: '1rem' }}>Service Guarantee</h2>
+          <h2 style={{ fontSize: '1.5rem', marginTop: '2rem', marginBottom: '1rem' }}>Service Commitment</h2>
           <p style={{ marginBottom: '1rem', color: '#b0b0c0' }}>
-            We guarantee:
+            We strive to provide:
           </p>
           <ul style={{ marginLeft: '1.5rem', marginBottom: '1rem', color: '#b0b0c0' }}>
             <li>Licensed and insured technicians</li>
