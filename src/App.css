@@ -160,7 +160,7 @@ body {
   font-size: 1.125rem;
   font-weight: 500;
   padding: 1rem 2rem;
-  border-bottom: 1px solid #2a2a3e;
+  border-bottom: 1px solid #50506a;
   transition: background 0.2s ease;
 }
 
@@ -234,7 +234,7 @@ body {
 .hero-subtitle {
   font-size: 0.875rem;
   font-weight: 600;
-  color: #b0b0c0;
+  color: #d0d0e0;
 }
 
 /* Quote Form */
@@ -245,7 +245,7 @@ body {
 .section-title {
   font-size: 1.5rem;
   font-weight: 700;
-  color: #2c3e50;
+  color: #e0e0f0;
   text-align: center;
   margin-bottom: 1.5rem;
 }
@@ -262,7 +262,7 @@ body {
   transform: translateY(-50%);
   width: 24px;
   height: 24px;
-  color: #8888a0;
+  color: #a8a8c0;
   pointer-events: none;
 }
 
@@ -356,7 +356,7 @@ body {
 }
 
 .location-input::placeholder {
-  color: #8888a0;
+  color: #a8a8c0;
 }
 
 .quote-button {
@@ -425,13 +425,13 @@ body {
   padding: 2rem 1.5rem 0.75rem;
   box-shadow: 0 4px 16px rgba(0, 0, 0, 0.4);
   text-align: center;
-  border: 1px solid #3a3a4e;
+  border: 1px solid #50506a;
 }
 
 .price-label {
   font-size: 1.125rem;
   font-weight: 600;
-  color: #b0b0c0;
+  color: #d0d0e0;
   margin-bottom: 0.5rem;
 }
 
@@ -445,7 +445,7 @@ body {
 
 .distance-info {
   font-size: 0.95rem;
-  color: #8888a0;
+  color: #a8a8c0;
   margin-bottom: 1.5rem;
   font-weight: 500;
 }
@@ -472,7 +472,7 @@ body {
   gap: 1rem;
   margin-top: 1.5rem;
   padding-top: 1.5rem;
-  border-top: 1px solid #3a3a4e;
+  border-top: 1px solid #50506a;
 }
 
 .feature {
@@ -568,7 +568,7 @@ body {
 }
 
 .legal-link {
-  color: #8888a0;
+  color: #a8a8c0;
   text-decoration: none;
   transition: color 0.2s ease;
 }
@@ -579,7 +579,7 @@ body {
 }
 
 .legal-separator {
-  color: #8888a0;
+  color: #a8a8c0;
 }
 
 /* Responsive Design */
@@ -662,7 +662,7 @@ body {
   border-radius: 8px;
   margin-top: 4px;
   box-shadow: 0 4px 16px rgba(0, 0, 0, 0.5);
-  border: 1px solid #3a3a4e;
+  border: 1px solid #50506a;
   font-family: inherit;
   background: #2a2a3e;
 }
