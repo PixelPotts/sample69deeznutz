@@ -27,7 +27,7 @@ function Contact() {
             border: '2px solid #ffd700',
             textAlign: 'center'
           }}>
-            <h2 style={{ fontSize: '1.5rem', marginBottom: '1.5rem', color: '#ffd700' }}>Emergency Lockout?</h2>
+            <h2 style={{ fontSize: '1.5rem', marginBottom: '1.5rem', color: '#ffd700' }}>Locked Out?</h2>
             <a href="tel:6238664245" style={{
               display: 'inline-flex',
               alignItems: 'center',
@@ -91,7 +91,7 @@ function Contact() {
             <div>
               <p style={{ color: '#ffd700', fontWeight: 700, marginBottom: '0.5rem' }}>Hours</p>
               <p style={{ color: '#ffffff', fontSize: '1.125rem' }}>
-                24/7 Emergency Service
+                24/7 Lockout Service
               </p>
             </div>
           </div>
@@ -124,7 +124,7 @@ function Contact() {
           }}>
             <h2 style={{ fontSize: '1.5rem', marginBottom: '1rem' }}>How to Reach Us</h2>
             <div style={{ marginBottom: '1rem' }}>
-              <p style={{ color: '#ffffff', fontWeight: 700, marginBottom: '0.5rem' }}>For Emergency Lockout Service:</p>
+              <p style={{ color: '#ffffff', fontWeight: 700, marginBottom: '0.5rem' }}>For Efficient Lockout Service:</p>
               <p style={{ color: '#b0b0c0' }}>Call us directly at <a href="tel:6238664245" style={{ color: '#ffd700' }}>623-866-4245</a> for prompt dispatch</p>
             </div>
             <div style={{ marginBottom: '1rem' }}>

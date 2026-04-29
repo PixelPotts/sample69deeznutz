@@ -56,7 +56,7 @@ function Dispatch() {
             <h2 style={{ fontSize: '1.5rem', color: '#ffffff', marginBottom: '1rem' }}>What to Expect</h2>
             <ul style={{ marginLeft: '1.5rem', lineHeight: '2' }}>
               <li>Live dispatcher ready to help</li>
-              <li>Quick quote based on your location</li>
+              <li>Efficient quote based on your location</li>
               <li>Technician dispatched promptly</li>
               <li>Real-time ETA provided</li>
               <li>Text updates on arrival time</li>
