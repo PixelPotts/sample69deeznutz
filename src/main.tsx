@@ -13,7 +13,7 @@ import Contact from './Contact.tsx'
 
 createRoot(document.getElementById('root')!).render(
   <StrictMode>
-    <BrowserRouter basename="/sample69deeznutz">
+    <BrowserRouter>
       <Routes>
         <Route path="/" element={<App />} />
         <Route path="/privacy" element={<PrivacyPolicy />} />
